@@ -1,0 +1,9 @@
+@DapperBeginners_HostAddress = http://localhost:5210/api
+
+GET {{DapperBeginners_HostAddress}}/videogame/
+
+###
+
+GET {{DapperBeginners_HostAddress}}/videogame/11
+
+###
